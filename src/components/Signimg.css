@@ -1,0 +1,99 @@
+.sign_img{
+    /* height: 800px; */
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    /* width: 40%; */
+    height: 150%;
+    z-index: -1;
+    position: absolute;
+    min-width: 50vh;
+    min-height: 50vh;
+}
+.right_data mt-5{
+    position: relative;
+width: 720px;
+height: 1024px;
+left: 720px;
+top: 1px;
+
+/* background-image: url("/public/1.png"); */
+mix-blend-mode: multiply;
+}
+.img_logo{
+    z-index: 1;
+}
+.kling{
+    position: absolute;
+width: 20.86px;
+height: 35.52px;
+left: 698px;
+top: 58px;
+}
+.shop2cash{
+position: absolute;
+width: 126px;
+height: 29px;
+left: 750px;
+top: 57px;
+
+font-family: 'Martel Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+text-align: center;
+}
+
+.img1{
+    /* position: absolute; */
+width: 115px;
+height: 102px;
+left: 757px;
+top: 126px;
+margin-left: 10rem;
+margin-top: 8rem;
+
+
+/* background: url(), #D9D9D9; */
+box-shadow: 1px 1px 2px rgba(255, 255, 255, 0.25);
+border-radius: 33.6881px;
+}
+
+.img2{
+    position: absolute;
+width: 321px;
+height: 200px;
+left: 768px;
+top: 413px;
+/* 
+background: url(), #D9D9D9; */
+box-shadow: 1px 1px 2px rgba(255, 255, 255, 0.25);
+border-radius: 55.4796px;
+}
+.img3{
+width: 201px;
+height: 484px;
+left: 900px;
+top: 329px;
+margin-left: 18rem;
+margin-top: 4rem;
+
+/* background: url(), #D9D9D9; */
+box-shadow: 1px 1px 2px rgba(255, 255, 255, 0.25);
+border-radius: 64px;
+}
+.img4{
+    position: absolute;
+width: 20%;
+height: 20%;
+/* height: 219px;
+left: 1039px; */
+top: 247px;
+margin-left: 2rem;
+margin-bottom: 30rem;
+padding-bottom: 30rem;
+
+/* background: url(), #D9D9D9; */
+box-shadow: 1px 1px 2px rgba(255, 255, 255, 0.25);
+border-radius: 61px;
+}
